@@ -6,6 +6,11 @@
 </script>
 
 
+<svelte:head>
+    <title>Grid - CSS properties</title>
+</svelte:head>
+
+
 <div class="w-full h-full min-h-[calc(100vh-1rem)] my-2 max-w-screen-md mx-auto border rounded-lg border-neutral-200 p-4 flex flex-col">
     <div class="grid grid-cols-1 md:grid-cols-3 gap-2">
         <div class="flex flex-col">
