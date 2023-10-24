@@ -47,7 +47,7 @@
                 <option value="flex-start">flex-start</option>
                 <option value="flex-end">flex-end</option>
                 <option value="center">center</option>
-                <option value="baseline">space-between</option>
+                <option value="baseline">baseline</option>
             </select>
         </div>
     </div>
