@@ -64,7 +64,7 @@
         </div>
     </div>
 
-    <div class="w-full grow flex p-4 text-white border border-neutral-200 rounded-lg" style="flex-direction: {flexDir}; gap: {gap}px; justify-content: {justContent}; align-items: {alignItems};">
+    <div class="w-full grow flex p-4 text-white border border-neutral-200 mt-2 rounded-lg" style="flex-direction: {flexDir}; gap: {gap}px; justify-content: {justContent}; align-items: {alignItems};">
         {#each {length : Number(noItems)} as _, i}
             <div class="w-14 h-14 bg-red-600 flex flex-col items-center justify-center rounded">{i+1}</div>
         {/each}
